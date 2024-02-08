@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<AppSettings>
+	<add key="apiKey" value=""/>
+	<add key="screenPath" value=""/>
+	<add key="isTray" value="false"/>
+</AppSettings>

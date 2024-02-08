@@ -1,0 +1,133 @@
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.exe
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.dll.config
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.deps.json
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.runtimeconfig.json
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.pdb
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\AudioSwitcher.AudioApi.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram.Bot.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.csproj.AssemblyReference.cache
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\View\Resources\Styles.baml
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control_MarkupCompile.cache
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control_MarkupCompile.lref
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\App.baml
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\View\MainWindow.baml
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.g.resources
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.AssemblyInfoInputs.cache
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.AssemblyInfo.cs
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.csproj.CoreCompileInputs.cache
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.csproj.CopyComplete
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\refint\Telegram_Remote_Control.dll
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.pdb
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.genruntimeconfig.cache
+C:\Users\Ivanchik228\source\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\ref\Telegram_Remote_Control.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.exe
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.deps.json
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.runtimeconfig.json
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram_Remote_Control.pdb
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\AudioSwitcher.AudioApi.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\System.Management.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\Telegram.Bot.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.csproj.AssemblyReference.cache
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\View\Resources\Styles.baml
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\View\MainWindow.g.cs
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\App.g.cs
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control_MarkupCompile.cache
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control_MarkupCompile.lref
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\App.baml
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\View\MainWindow.baml
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.g.resources
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.AssemblyInfoInputs.cache
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.AssemblyInfo.cs
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.csproj.CopyComplete
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\refint\Telegram_Remote_Control.dll
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.pdb
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\Telegram_Remote_Control.genruntimeconfig.cache
+D:\Visual Studio 2022 Community\repos\Telegram_Remote_Control\Telegram_Remote_Control\obj\Release\net6.0-windows\ref\Telegram_Remote_Control.dll
