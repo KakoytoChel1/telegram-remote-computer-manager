@@ -2,7 +2,7 @@
 
 ![Preview](Images/trc_img1.png)
 
-**"Telegram remote control - TRC"** - is a pet-project application designed for remote control of some computer functions via a bot in Telegram messenger, developed using **WPF .NET Core**. The main functions include:
+**"Telegram remote control - TRC"** - is a project application designed for remote control of some computer functions via a bot in Telegram messenger, developed using **WPF .NET Core**. The main functions include:
 - Changing the brightness of the computer monitor,
 - Changing the overall volume of the system,
 - Taking a screenshot in real time,
