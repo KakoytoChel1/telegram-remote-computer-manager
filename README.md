@@ -11,7 +11,7 @@
 - Changing the brightness of the computer monitor,
 - Changing the overall volume of the system,
 - Taking a screenshot in real time,
-- Calling "Custom command", otherwise opening applications or files by triggering a user command,
+- Calling "Custom command", in other words, opening applications or files by triggering a user command,
 - Among others there is a **Whitelist**, for Telegram users who can connect and control the computer.
 
 
